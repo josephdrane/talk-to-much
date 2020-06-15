@@ -1,3 +1,13 @@
+# Talk Too Much
+
+When I read this [Harvard Business Review Article](https://hbr.org/2015/06/how-to-know-if-you-talk-too-much) I felt an App was in order, so I made this app. Would be a cool mobile app
+
+## Future Plans with the App?
+
+None at the moment.
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
